@@ -1,7 +1,7 @@
 
     [
       {
-        "_comment" : "Color palettes from ColourLovers --- we are rehosting this result locally so you don't need to learn cross-domain AJAX to make this work. Please visit http://www.colourlovers.com/api for the real thing.",        
+        "_comment" : "Color palettes from ColourLovers --- we are rehosting this result locally so you don't need to learn cross-domain AJAX to make this work. Please visit http://www.colourlovers.com/api for the real thing.",
         "id": "92095",
         "title": "Giant Goldfish",
         "userName": "manekineko",
@@ -465,5 +465,5 @@
         "imageUrl": "http://www.colourlovers.com/paletteImg/FF4242/F4FAD2/D4EE5E/E1EDB9/F0F2EB/Wasabi_Suicide.png",
         "badgeUrl": "http://www.colourlovers.com/images/badges/pw/482/482416_Wasabi_Suicide.png",
         "apiUrl": "http://www.colourlovers.com/api/palette/482416"     }
- 
+
     ]
